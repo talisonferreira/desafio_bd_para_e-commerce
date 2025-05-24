@@ -10,5 +10,5 @@ O desafio consiste em executar as habilidades para modelagem de um banco de dado
 
 ## 🔗 Meu Contato
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talison-ferreira-4a8bba236/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talisonferreira)
 
